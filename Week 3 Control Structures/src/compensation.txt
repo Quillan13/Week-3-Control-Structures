@@ -1,0 +1,4 @@
+Salary: $30,000.00
+Annual Sales: $120,000.00
+Commission Rate: 0.07
+Annual Compensation: $38,400.00
